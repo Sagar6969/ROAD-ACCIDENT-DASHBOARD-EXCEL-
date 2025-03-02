@@ -32,6 +32,7 @@ Use slicers to filter data by accident date and location.
 
 Analyze key insights from charts and tables.
 
+
 📂 Dataset Requirements
 
 The dataset should include fields like:
@@ -46,7 +47,8 @@ Road & Weather Conditions
 
 🔄 Future Enhancements
 
-![Road Accident Dashboard]("C:\Users\HP\Desktop\3rd MARCH\Excel Project\Screenshot 2025-03-02 122145.jpg")
+## Dashboad VIEW
+![Screenshot 2025-03-02 122145](https://github.com/user-attachments/assets/28d3a3ec-4793-44e0-a750-7ef1113ad5f4)
 
 
 Integration with Power BI for advanced analytics.
