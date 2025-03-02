@@ -46,6 +46,9 @@ Road & Weather Conditions
 
 🔄 Future Enhancements
 
+![Road Accident Dashboard]("C:\Users\HP\Desktop\3rd MARCH\Excel Project\Screenshot 2025-03-02 122145.jpg")
+
+
 Integration with Power BI for advanced analytics.
 
 Predictive modeling for accident risk assessment.
